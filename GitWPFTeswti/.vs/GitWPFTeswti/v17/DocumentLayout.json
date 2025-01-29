@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joni220\\Documents\\Ohjelmistokehitys\\Jonin gitit\\git_test_v98247\\GitWPFTeswti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DEEF46-FAC4-46CB-965E-B9CB82B2B73F}|GitWPFTeswti.csproj|c:\\users\\joni220\\documents\\ohjelmistokehitys\\jonin gitit\\git_test_v98247\\gitwpfteswti\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1DEEF46-FAC4-46CB-965E-B9CB82B2B73F}|GitWPFTeswti.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DEEF46-FAC4-46CB-965E-B9CB82B2B73F}|GitWPFTeswti.csproj|c:\\users\\joni220\\documents\\ohjelmistokehitys\\jonin gitit\\git_test_v98247\\gitwpfteswti\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DEEF46-FAC4-46CB-965E-B9CB82B2B73F}|GitWPFTeswti.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\joni220\\Documents\\Ohjelmistokehitys\\Jonin gitit\\git_test_v98247\\GitWPFTeswti\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\joni220\\Documents\\Ohjelmistokehitys\\Jonin gitit\\git_test_v98247\\GitWPFTeswti\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-29T08:29:26.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\joni220\\Documents\\Ohjelmistokehitys\\Jonin gitit\\git_test_v98247\\GitWPFTeswti\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\joni220\\Documents\\Ohjelmistokehitys\\Jonin gitit\\git_test_v98247\\GitWPFTeswti\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:29:21.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
