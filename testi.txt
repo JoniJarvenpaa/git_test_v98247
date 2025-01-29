@@ -1,1 +1,7 @@
 Git workflow ohjeet
+
+1. git pull 	-- Vetää viimeisimmät muutokset gitistä tänne koneelle
+2. Työt 	-- Tee tarvittavat työt, mitä ikinä olitkaan sinne tekemäs
+3. git add .	-- Lisää kaikki tehdyt muutokset seuraavaan committiin
+4. git commit -m "Tähän laitetaan viesti, joka kertoo että mitä on muuttunut"
+5. git push 	-- Työntää muutokset githubiin, jotta muut tiimiläiset saavat tekemäsi muutokset omille koneillensa, kun he tekevät git pullin
