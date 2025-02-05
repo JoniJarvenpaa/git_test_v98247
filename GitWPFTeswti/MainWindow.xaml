@@ -7,7 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label Content="pls send halp" HorizontalAlignment="Left" Margin="297,175,0,0" VerticalAlignment="Top" Height="88" Width="350"/>
+        <Label Name="Halp" Content="pls send halp" HorizontalAlignment="Left" Margin="297,175,0,0" VerticalAlignment="Top" Height="42" Width="113"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="194,121,0,0" VerticalAlignment="Top"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="472,90,0,0" VerticalAlignment="Top" Click="Button_Click"/>
 
     </Grid>
 </Window>
