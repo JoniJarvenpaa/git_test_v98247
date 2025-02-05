@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label Name="Halp" Content="pls send halp" HorizontalAlignment="Left" Margin="297,145,0,0" VerticalAlignment="Top" Height="33" Width="156" RenderTransformOrigin="0.5,0.5">
+        <Label Name="LabelHalp" Content="pls send halp" HorizontalAlignment="Left" Margin="244,132,0,0" VerticalAlignment="Top" Height="72" Width="213" RenderTransformOrigin="0.5,0.5">
             <Label.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform ScaleY="1"/>
@@ -17,7 +17,7 @@
                 </TransformGroup>
             </Label.RenderTransform>
         </Label>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="161,132,0,0" VerticalAlignment="Top" Height="72" RenderTransformOrigin="0.5,0.5" Width="54">
+        <Button Content="Button" HorizontalAlignment="Left" Margin="120,132,0,0" VerticalAlignment="Top" Height="72" RenderTransformOrigin="0.5,0.5" Width="95" Click="Button_Click_1">
             <Button.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform ScaleY="-1"/>

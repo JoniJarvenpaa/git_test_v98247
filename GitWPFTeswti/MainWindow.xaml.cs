@@ -23,7 +23,14 @@ namespace GitWPFTeswti
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-		
+            LabelHalp.Background = Brushes.Blue;
+            LabelHalp.FontSize = LabelHalp.FontSize * 1.1;
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+			LabelHalp.Background = Brushes.Red;
+			LabelHalp.FontSize = LabelHalp.FontSize*1.1;
         }
     }
 }
