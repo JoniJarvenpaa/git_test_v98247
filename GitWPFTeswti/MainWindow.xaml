@@ -22,18 +22,18 @@
                 <TransformGroup>
                     <ScaleTransform ScaleY="-1"/>
                     <SkewTransform/>
-                    <RotateTransform/>
+                    <RotateTransform Angle="-181.317"/>
                     <TranslateTransform/>
                 </TransformGroup>
             </Button.RenderTransform>
         </Button>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="491,150,0,0" VerticalAlignment="Top" Click="Button_Click" RenderTransformOrigin="0.5,0.5" Height="72" Width="54">
+        <Button Content="Button" HorizontalAlignment="Left" Margin="411,40,0,0" VerticalAlignment="Top" Click="Button_Click" RenderTransformOrigin="0.5,0.5" Height="174" Width="117">
             <Button.RenderTransform>
                 <TransformGroup>
-                    <ScaleTransform ScaleX="1.623" ScaleY="-0.616"/>
-                    <SkewTransform AngleY="0" AngleX="45.381"/>
-                    <RotateTransform Angle="58.187"/>
-                    <TranslateTransform/>
+                    <ScaleTransform ScaleX="1.081" ScaleY="-0.616"/>
+                    <SkewTransform AngleY="-26.328" AngleX="45.381"/>
+                    <RotateTransform Angle="221.459"/>
+                    <TranslateTransform X="-9.874" Y="43.441"/>
                 </TransformGroup>
             </Button.RenderTransform>
         </Button>
