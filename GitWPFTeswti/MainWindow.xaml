@@ -7,9 +7,36 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label Name="Halp" Content="pls send halp" HorizontalAlignment="Left" Margin="297,175,0,0" VerticalAlignment="Top" Height="42" Width="113"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="194,121,0,0" VerticalAlignment="Top"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="472,90,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Label Name="Halp" Content="pls send halp" HorizontalAlignment="Left" Margin="297,145,0,0" VerticalAlignment="Top" Height="33" Width="156" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="161,132,0,0" VerticalAlignment="Top" Height="72" RenderTransformOrigin="0.5,0.5" Width="54">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="491,150,0,0" VerticalAlignment="Top" Click="Button_Click" RenderTransformOrigin="0.5,0.5" Height="72" Width="54">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1.623" ScaleY="-0.616"/>
+                    <SkewTransform AngleY="0" AngleX="45.381"/>
+                    <RotateTransform Angle="58.187"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
 
     </Grid>
 </Window>
