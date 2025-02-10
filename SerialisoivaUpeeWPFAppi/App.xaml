@@ -1,7 +1,7 @@
-﻿<Application x:Class="GitWPFTeswti.App"
+﻿<Application x:Class="SerialisoivaUpeeWPFAppi.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:GitWPFTeswti"
+             xmlns:local="clr-namespace:SerialisoivaUpeeWPFAppi"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
