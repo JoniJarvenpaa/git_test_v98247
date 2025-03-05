@@ -17,10 +17,10 @@
         <Label Content="Merkki" HorizontalAlignment="Left" Margin="25,56,0,0" VerticalAlignment="Top"/>
         <Label Content="Malli" HorizontalAlignment="Left" Margin="152,56,0,0" VerticalAlignment="Top"/>
         <Label Content="Vuosimalli" HorizontalAlignment="Left" Margin="276,56,0,0" VerticalAlignment="Top"/>
-        <Button Name="LisaaAuto_Button" Content="Lisää uusi auto tietokantaan xD" HorizontalAlignment="Left" Margin="30,104,0,0" VerticalAlignment="Top" Width="370" Grid.ColumnSpan="2" Click="LisaaAuto_Button_Click"/>
+        <Button Name="LisaaAuto_Button" Content="Lisää uusi auto JSON tiedostoon" HorizontalAlignment="Left" Margin="30,104,0,0" VerticalAlignment="Top" Width="370" Grid.ColumnSpan="2" Click="LisaaAuto_Button_Click"/>
         <Label Name="IlmoitusTeksti" Content="" HorizontalAlignment="Left" Margin="30,129,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="370"/>
         <DataGrid Name="AutoDataGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="30,168,0,0"/>
-        <Button Name="CheckValues" Grid.Column="1" Content="Tarkista Arvot" HorizontalAlignment="Left" Margin="199,199,0,0" VerticalAlignment="Top" Height="52" Width="110" Click="CheckValues_Click"/>
+        <Button Name="CheckValues" Grid.Column="1" Content="Testinappi" HorizontalAlignment="Left" Margin="199,199,0,0" VerticalAlignment="Top" Height="52" Width="110" Click="CheckValues_Click"/>
 
     </Grid>
 </Window>
